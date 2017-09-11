@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<material>
+    <events>
+        <leftrunstep soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_run.xml" attached="true"/>
+        <rightrunstep soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_run.xml" attached="true"/>
+        <leftwallstep soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_run.xml" attached="true"/>
+        <rightwallstep soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_run.xml" attached="true"/>
+        <leftwalkstep soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_walk.xml" attached="true"/>
+        <rightwalkstep soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_walk.xml" attached="true"/>
+        <leftcrouchwalkstep soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_crouchwalk.xml" attached="true"/>
+        <rightcrouchwalkstep soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_crouchwalk.xml" attached="true"/>
+        <land soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_jump_land.xml" attached="true"/>
+        <land_soft soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_jump_land.xml" attached="true"/>
+        <land_slide soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_jump_land.xml" attached="true"/>
+        <kick soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_kick.xml" attached="true"/>
+        <sweep soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_sweep.xml" attached="true"/>
+        <jump soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_jump.xml" attached="true"/>
+        <roll soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_roll.xml" attached="true"/>
+        <flip soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_jumpflip.xml" attached="true"/>
+        <edge_grab soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_edge_grab.xml" attached="true"/>
+        <edge_crawl soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_edge_crawl.xml" attached="true"/>
+        <choke_move soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_choke_move.xml" attached="true"/>
+        <choke_grab soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_choke_grab.xml" attached="true"/>
+        <choke_fall soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_choke_fall.xml" attached="true"/>
+		<bodyfall_light soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_medium.xml" attached="true"/>
+        <bodyfall_medium soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_medium.xml" attached="true"/>
+        <bodyfall_heavy soundgroup="Data/Mods/bastion/sounds/metal_foley/metal_heavy.xml" attached="true"/>		
+    </events>
+</material>

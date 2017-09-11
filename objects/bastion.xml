@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Object>
+	<Model>Data/mods/bastion/models/bastion.obj</Model>
+	<ColorMap>Data/mods/bastion/Textures/bastion_c.tga</ColorMap>
+	<NormalMap>Data/mods/bastion/Textures/bastion_n.tga</NormalMap>
+
+	<ShaderName>cubemapobjchar</ShaderName>
+</Object>

@@ -1,0 +1,3 @@
+<?xml version="1.0" ?>
+<rig bone_path = "Data/mods/bastion/skeletons/bastion.phxbn"
+     model_path = "Data/mods/bastion/Models/bastion.obj"/>
