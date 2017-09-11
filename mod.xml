@@ -1,0 +1,18 @@
+<? xml version="1.0" ?>
+<Mod>
+    <Id>bastion</Id>
+    <Name>Bastion</Name>
+    <Category>Item Pack</Category>
+    <Version>0.1.0</Version>
+    <Author>Akazi</Author>
+    <Thumbnail>Data/Images/bastion_thumb.jpg</Thumbnail>
+    <PreviewImage>Data/Images/bastion_full.jpg</PreviewImage>
+    <Description>Bastion character.</Description>
+    <Tag>bastion</Tag>
+    <SupportedVersion>*</SupportedVersion>
+    <NeedsRestart>false</NeedsRestart>
+    <Item category="Character"
+        title="Bastion"
+        path="Data/Objects/bastion_actor.xml"
+        thumbnail="Data/UI/spawner/bastion.png" />
+</Mod>
