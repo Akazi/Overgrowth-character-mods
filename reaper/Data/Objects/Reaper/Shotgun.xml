@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<Object>
+	<Model>Data/Models/Reaper/Shotgun.obj</Model>
+	<ColorMap>Data/Textures/Reaper/Shotgun_c.tga</ColorMap>
+	<NormalMap>Data/Textures/Reaper/Shotgun_n.tga</NormalMap>
+	<ShaderName>cubemapobjitem</ShaderName>
+</Object>

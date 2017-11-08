@@ -1,0 +1,24 @@
+<? xml version="1.0" ?>
+<Mod>
+    <Id>reaper-ow-mod</Id>
+    <Name>Reaper from Overwatch</Name>
+    <Category>Characters</Category>
+    <Version>1.0</Version>
+    <Author>Akazi</Author>
+    <Thumbnail>Data/thumbnails/Reaper_full_transparent.png</Thumbnail>
+    <PreviewImage>Data/thumbnails/Reaper_full.jpeg</PreviewImage>
+    <Description>Reaper makes it to Overgrowth. Includes morph targets for the eyes, mouth and hands.
+	I don't own anything in this.</Description>
+	<Tag>characters</Tag>
+	<Tag>Reaper</Tag>
+    <SupportedVersion>*</SupportedVersion>
+    <NeedsRestart>false</NeedsRestart>
+	<Item category="reaper"
+        title="Reaper"
+		path="Data/Objects/Reaper/Reaper.xml"
+        thumbnail="Data/UI/spawner/Reaper.png" />
+	<Item category="reaper"
+        title="Shotgun"
+		path="Data/Items/Reaper/Shotgun.xml"
+        thumbnail="Data/UI/spawner/Shotgun.png" />
+</Mod>
