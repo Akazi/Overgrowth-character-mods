@@ -26,6 +26,6 @@
     </morphs>
 	<clothing>Data/Materials/cloth_leather.xml</clothing>
     <tags species = "rabbit"/>
-    <soundmod>soft</soundmod>
+    <soundmod>heavy</soundmod>
     <team>Reaper</team>
 </character>
