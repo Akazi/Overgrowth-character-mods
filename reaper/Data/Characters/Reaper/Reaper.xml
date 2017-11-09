@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <character>
     <appearance obj_path = "Data/Objects/Reaper/Reaper.xml"		        
-                skeleton = "Data/skeletons/Reaper/Reaper.xml"/>
-    <animations idle = "Data/Animations/r_idle.xml"
+                skeleton = "Data/skeletons/Reaper/Reaper.xml"
+				default_scale = "1.3"/>
+    <animations idle = "Data/Animations/r_actionidle.xml"
                 jump = "Data/Animations/r_jump.xml"
                 roll = "Data/Animations/r_roll.xml"
                 movement = "Data/Animations/w_movement.xml"
@@ -17,7 +18,7 @@
                 blockflinch = "Data/Animations/r_activeblockflinch.anm"/>
    <attacks moving_close = "Data/Attacks/jab.xml"
              stationary_close = "Data/Attacks/kneestrike.xml"
-             moving = "Data/Attacks/spinkick.xml"
+             moving = "Data/Attacks/haymaker.xml"
              stationary = "Data/Attacks/frontkick.xml"
              moving_low = "Data/Attacks/soccerkick.xml"
              low = "Data/Attacks/sweep.xml"
@@ -26,6 +27,5 @@
     </morphs>
 	<clothing>Data/Materials/cloth_leather.xml</clothing>
     <tags species = "rabbit"/>
-    <soundmod>heavy</soundmod>
     <team>Reaper</team>
 </character>
